@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545641329821",
+    "project_id": "login-dan-register-fireb-a3f35",
+    "storage_bucket": "login-dan-register-fireb-a3f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545641329821:android:6c45354cc6522720969074",
+        "android_client_info": {
+          "package_name": "com.example.logindanregisterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVt_VX6JVrPTIM9YpV0kNH1P42Pla0kpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
